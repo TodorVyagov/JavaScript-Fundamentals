@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\03-04.Tasks\bin\03-04.Tasks.dll
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\03-04.Tasks\bin\03-04.Tasks.pdb
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\03-04.Tasks\obj\Debug\03-04.Tasks.dll
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\03-04.Tasks\obj\Debug\03-04.Tasks.pdb
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\bin\03-04.Tasks.dll.config
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\bin\03-04.Tasks.dll
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\bin\03-04.Tasks.pdb
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\obj\Debug\03-04.Tasks.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\obj\Debug\03-04.Tasks.dll
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\03-04.Tasks\obj\Debug\03-04.Tasks.pdb

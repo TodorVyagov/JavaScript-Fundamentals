@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\1-2.Tasks\bin\1-2.Tasks.dll
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\1-2.Tasks\bin\1-2.Tasks.pdb
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\1-2.Tasks\obj\Debug\1-2.Tasks.dll
+C:\Users\student\Desktop\Todor\JavaScript\8.Homework-Strings\8.Homework-Strings\1-2.Tasks\obj\Debug\1-2.Tasks.pdb

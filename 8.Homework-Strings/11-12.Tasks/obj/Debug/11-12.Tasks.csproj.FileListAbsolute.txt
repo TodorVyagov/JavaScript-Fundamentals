@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\bin\11-12.Tasks.dll.config
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\bin\11-12.Tasks.dll
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\bin\11-12.Tasks.pdb
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\obj\Debug\11-12.Tasks.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\obj\Debug\11-12.Tasks.dll
+D:\Todor\Telerik Software Academy\07.JavaScript-1Part\8.Homework-Strings\11-12.Tasks\obj\Debug\11-12.Tasks.pdb
