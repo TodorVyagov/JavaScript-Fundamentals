@@ -1,0 +1,14 @@
+﻿body {
+    margin-top: -1em;
+    background-color: #000;
+	font-family: Cobel, Verdana;
+    color: #EBFFD2;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 1.2em;
+    margin: 0;
+    margin-top: 1em;
+	color: #CCFF33;
+}
